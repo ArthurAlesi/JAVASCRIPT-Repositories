@@ -2,10 +2,10 @@
  This is a shortcut for all my Javascript repositories. Please check them
 
 
-<a href="/">Basic Site with Javascript , Html and Css </a> <br>
+<a href="https://github.com/ArthurAlesi/JAVASCRIPT-Site-with-HTML-CSS">Basic Site with Javascript , Html and Css </a> <br>
 
-<a href="/">Project with JQuery </a> <br>
+<a href="https://github.com/ArthurAlesi/JAVASCRIPT-JQUERY-Project">Project with JQuery </a> <br>
 
-<a href="/">Crud Api with Node Express </a> <br>
+<a href="https://github.com/ArthurAlesi/NODE-Crud-Api">Crud Api with Node Express </a> <br>
 
-<a href="/">Crud with React </a> <br>
+<a href="https://github.com/ArthurAlesi/REACT-NATIVE-APP-AluraCourse">Crud with React </a> <br>
