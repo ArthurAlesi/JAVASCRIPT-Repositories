@@ -4,7 +4,7 @@
 
 <a href="https://github.com/ArthurAlesi/JAVASCRIPT-Site-with-HTML-CSS">Basic Site with Javascript , Html and Css </a> <br>
 
-<a href="https://github.com/ArthurAlesi/JAVASCRIPT-JQUERY-Project">Snake Game project with JQuery </a> <br>
+<a href="https://github.com/ArthurAlesi/JAVASCRIPT-JQUERY-Project">Snake Game project with JQuery </a> ✔ <br>
 
 <a href="https://github.com/ArthurAlesi/NODE-Crud-Api">Crud Api with Node Express </a> <br>
 
